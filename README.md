@@ -1,6 +1,9 @@
 # Android-BasicAdapter
 
 BasicAdapter to use instead of separate java files for Android RecyclerView Adapters, with a more comprehensible adapter structure and databinding.
+
+[![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
+[![Release](https://jitpack.io/v/ajays97/Android-BasicAdapter.svg)](https://jitpack.io/#ajays97/Android-BasicAdapter)
 ## Download from the jitpack repo
 #### Add it to your root project build.gradle file at the end of repositories
 ```
