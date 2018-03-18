@@ -4,6 +4,7 @@ BasicAdapter to use instead of separate java files for Android RecyclerView Adap
 
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 [![Release](https://jitpack.io/v/ajays97/Android-BasicAdapter.svg)](https://jitpack.io/#ajays97/Android-BasicAdapter)
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Android--BasicAdapter-green.svg?style=flat )]( https://android-arsenal.com/details/1/6852 )
 ## Download from the jitpack repo
 #### Add it to your root project build.gradle file at the end of repositories
 ```
